@@ -1,0 +1,12 @@
+
+requirements.txt` file
+pandas
+numpy
+matplotlib
+transformers
+datasets
+evaluate
+torch
+sentencepiece
+spacy
+gradio
