@@ -1,6 +1,6 @@
 # 🛍️ Product Review Summarizer + Sentiment Extractor for E-Commerce Analytics  
 
-### 📘 Project 14 | ABL-1 Activity | SIT  
+
 
 ---
 
